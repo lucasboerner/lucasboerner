@@ -2,7 +2,7 @@
 
 I’m love working with [@neos](https://github.com/neos).
 
-## I love to use
+## I like to use
 
 ![](https://img.shields.io/badge/Code-PHP-%237A86B8)
 ![](https://img.shields.io/badge/Code-Fusion-%2300adee)
