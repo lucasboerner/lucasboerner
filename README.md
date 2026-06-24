@@ -1,28 +1,29 @@
-Hi 👋 My name is Lucas
-======================
+# Hi, I'm Lucas 👋
 
-PHP Developer
--------------
+### 💻 Software Developer
 
-I like to work with PHP.
+I build software with [Symfony](https://symfony.com) and [Next.js](https://nextjs.org).
 
-* 🌍  I'm based in Dresden, Germany
-* ✉️  You can contact me at [mail@lucasboerner.de](mailto:mail@lucasboerner.de)
+📍 Dresden, Germany · 📫 [mail@lucasboerner.com](mailto:mail@lucasboerner.com)
 
-### Skills
+---
 
+## 💚 Tech I love
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-</p>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" alt="Symfony" width="18" height="18" /> [Symfony](https://symfony.com)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="18" height="18" /> [Next.js](https://nextjs.org) & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="18" height="18" /> [Tailwind CSS](https://tailwindcss.com)
 
+## 🧰 Also in my toolbox
 
-### Socials
+- <img src="https://raw.githubusercontent.com/neos/brand/master/logos/Avatars/neos_avatar_primary.svg" alt="Neos CMS" width="18" height="18" /> [Neos CMS](https://www.neos.io)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native" width="18" height="18" /> [React Native](https://reactnative.dev)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="18" height="18" /> a little bit of [Swift](https://www.swift.org)
 
-<p align="left"> <a href="https://www.github.com/lucasboerner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+---
+
+## 🚀 What I love building
+
+- 🌐 **SaaS** products
+- 🧩 **Microservices**
+- 🔌 **APIs**
+- 🤖 Bringing **AI** into products in a genuinely useful way
